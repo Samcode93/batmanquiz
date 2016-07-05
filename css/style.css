@@ -1,0 +1,16 @@
+body {
+  background-image: url('../images/batman.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: black;
+  font-family: 'Lato', sans-serif;
+  color: white;
+  text-align: center;
+}
+
+.button {
+  background-color: yellow;
+  color: black;
+  border-radius: 12px;
+  border-color: red;
+}
